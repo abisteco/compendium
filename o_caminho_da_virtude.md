@@ -1390,5 +1390,5 @@ fazer e não disputar o fim
 este livro é uma reprodução exclusiva
 para deficientes visuais
 de acordo com a lei 9.610 artigo 46
-você ouviu um audiolivro.
+você leu e ouviu um audiolivro.
 [taskMusic]
